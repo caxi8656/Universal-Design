@@ -1,0 +1,28 @@
+body {
+    background: rgb(159,145,247);
+    background: -moz-linear-gradient(0deg, rgba(159,145,247,1) 0%, rgba(104,235,247,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(159,145,247,1) 0%, rgba(104,235,247,1) 100%);
+    background: linear-gradient(0deg, rgba(159,145,247,1) 0%, rgba(104,235,247,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#9f91f7",endColorstr="#68ebf7",GradientType=1);
+}
+
+h1 { 
+    font-family: "Courier New"
+}
+
+p {
+    font-family: "Verdana"
+}
+
+.sr-only {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  
+  }
