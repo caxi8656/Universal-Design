@@ -14,6 +14,16 @@ p {
     font-family: "Verdana"
 }
 
+.img1 {
+    float: left;
+    margin-right: 10px;
+}
+
+.img2 {
+    float: right;
+    margin-right: 10px;
+}
+
 .sr-only {
     border: 0;
     clip: rect(0, 0, 0, 0);
