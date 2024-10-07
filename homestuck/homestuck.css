@@ -6,6 +6,11 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#9f91f7",endColorstr="#68ebf7",GradientType=1);
 }
 
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
 h1 { 
     font-family: "Courier New"
 }
